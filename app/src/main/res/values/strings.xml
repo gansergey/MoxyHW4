@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">MoxyHW4</string>
+    <string name="app_name">My Application</string>
+    <string name="edit_text_hint">Введите число:</string>
+    <string name="title_button">Расчёт</string>
+    <string name="result_calculate" />
 </resources>
